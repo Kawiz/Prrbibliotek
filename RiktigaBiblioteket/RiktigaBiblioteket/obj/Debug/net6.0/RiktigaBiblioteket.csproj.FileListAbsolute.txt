@@ -1,0 +1,15 @@
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\bin\Debug\net6.0\RiktigaBiblioteket.exe
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\bin\Debug\net6.0\RiktigaBiblioteket.deps.json
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\bin\Debug\net6.0\RiktigaBiblioteket.runtimeconfig.json
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\bin\Debug\net6.0\RiktigaBiblioteket.dll
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\bin\Debug\net6.0\RiktigaBiblioteket.pdb
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\obj\Debug\net6.0\RiktigaBiblioteket.csproj.AssemblyReference.cache
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\obj\Debug\net6.0\RiktigaBiblioteket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\obj\Debug\net6.0\RiktigaBiblioteket.AssemblyInfoInputs.cache
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\obj\Debug\net6.0\RiktigaBiblioteket.AssemblyInfo.cs
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\obj\Debug\net6.0\RiktigaBiblioteket.csproj.CoreCompileInputs.cache
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\obj\Debug\net6.0\RiktigaBiblioteket.dll
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\obj\Debug\net6.0\refint\RiktigaBiblioteket.dll
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\obj\Debug\net6.0\RiktigaBiblioteket.pdb
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\obj\Debug\net6.0\RiktigaBiblioteket.genruntimeconfig.cache
+C:\Users\adam.zahirovic\source\repos\RiktigaBiblioteket\RiktigaBiblioteket\obj\Debug\net6.0\ref\RiktigaBiblioteket.dll
